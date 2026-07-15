@@ -32,4 +32,5 @@ This project builds a small relational database of Bloodborne weapons and bosses
 
 ## Author
 
-Sowmen Roy [LinkedIn](https://www.linkedin.com/in/sowmen-roy-444a601b5/)
+Sowmen Roy 
+[LinkedIn](https://www.linkedin.com/in/sowmen-roy-444a601b5/)
