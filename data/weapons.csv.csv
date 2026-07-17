@@ -14,30 +14,3 @@ weapon_id,name,str_req,skil_req,blt_req,arc_req,base_damage,scaling_str,scaling_
 13,Kirkhammer,16,10,,,105,C,E,,D,TRUE
 14,Kos Parasite,,,,20,,,,,A,TRUE
 15,Logarius' Wheel,20,12,,10,100,C,,,D,TRUE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
