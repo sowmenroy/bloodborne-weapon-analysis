@@ -13,7 +13,7 @@ A relational database and analysis project exploring Bloodborne's weapons and bo
 
 ## Project Overview
 
-This project builds a small relational database of Bloodborne weapons and bosses to answer:
+This project builds a small relational database of Bloodborne weapons (base/+0 level) and bosses to answer:
 
 **Which damage type (physical, blood, arcane, fire) has the best average coverage against bosses?**
 
