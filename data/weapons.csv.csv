@@ -1,0 +1,43 @@
+weapon_id,name,str_req,skil_req,blt_req,arc_req,base_damage,scaling_str,scaling_skl,scaling_blt,scaling_arc,trick_weapon
+1,Amygdalan Arm,17,9,,,80,C,E,,D,TRUE
+2,Beast Claw,14,12,,,75,D,E,,D,TRUE
+3,Beasthunter Saif,9,11,,,90,E,D,,D,TRUE
+4,Beast Cutter,11,9,,,92,D,E,,E,TRUE
+5,Blade of Mercy,7,11,,,60,,C,,D,TRUE
+6,Bloodletter,14,6,16,,90,C,,B,D,TRUE
+7,Boom Hammer,14,8,,,90,C,E,,D,TRUE
+8,Burial Blade,10,12,,,80,E,C,,D,TRUE
+9,Chikage,10,14,12,,92,E,D,C,D,TRUE
+10,Church Pick,9,14,,,88,E,D,,D,TRUE
+11,Holy Moonlight Sword,16,12,,14,90,D,D,,C,TRUE
+12,Hunter Axe,9,8,,,98,D,E,,D,TRUE
+13,Kirkhammer,16,10,,,105,C,E,,D,TRUE
+14,Kos Parasite,,,,20,,,,,A,TRUE
+15,Logarius' Wheel,20,12,,10,100,C,,,D,TRUE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
