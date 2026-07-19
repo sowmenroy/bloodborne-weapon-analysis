@@ -14,3 +14,30 @@ weapon_id,name,str_req,skil_req,blt_req,arc_req,base_damage,scaling_str,scaling_
 13,Kirkhammer,16,10,,,105,C,E,,D,TRUE
 14,Kos Parasite,,,,20,,,,,A,TRUE
 15,Logarius' Wheel,20,12,,10,100,C,,,D,TRUE
+16,Ludwig's Holy Blade,16,12,,,100,D,D,,D,TRUE
+17,Rakuyo,10,20,,,82,,C,,D,TRUE
+18,Reiterpallasch,8,12,10,,75,E,C,E,D,TRUE
+19,Rifle Spear,10,11,9,,85,E,D,D,D,TRUE
+20,Saw Cleaver,8,7,,,90,D,E,,D,TRUE
+21,Saw Spear,7,8,,,85,D,D,,D,TRUE
+22,Simon's Bowblade,8,15,9,,80,,C,C,D,TRUE
+23,Stake Driver,18,9,,,85,D,D,,D,TRUE
+24,Threaded Cane,7,9,,,78,E,C,,D,TRUE
+25,Tonitrus,12,8,,,80,D,E,,D,TRUE
+26,Whirligig Saw,18,12,,,95,B,E,,D,TRUE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
+,,,,,,,,,,,FALSE
