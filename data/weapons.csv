@@ -1,4 +1,4 @@
-weapon_id,name,str_req,skil_req,blt_req,arc_req,base_damage,scaling_str,scaling_skl,scaling_blt,scaling_arc,trick_weapon
+weapon_id,name,str_req,skil_req,blt_req,arc_req,main_attack,scaling_str,scaling_skl,scaling_blt,scaling_arc,trick_weapon
 1,Amygdalan Arm,17,9,,,80,C,E,,D,TRUE
 2,Beast Claw,14,12,,,75,D,E,,D,TRUE
 3,Beasthunter Saif,9,11,,,90,E,D,,D,TRUE
@@ -25,19 +25,19 @@ weapon_id,name,str_req,skil_req,blt_req,arc_req,base_damage,scaling_str,scaling_
 24,Threaded Cane,7,9,,,78,E,C,,D,TRUE
 25,Tonitrus,12,8,,,80,D,E,,D,TRUE
 26,Whirligig Saw,18,12,,,95,B,E,,D,TRUE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
-,,,,,,,,,,,FALSE
+27,Cannon,30,13,,,200,,,E,,FALSE
+28,Church Cannon,27,,16,,160,,,E,,FALSE
+29,Evelyn,9,11,18,,60,,,B,,FALSE
+30,Fist of Gratia,7,9,5,,60,D,,,,FALSE
+31,Flamesprayer,28,8,,8,45,,,,D,FALSE
+32,Gatling Gun,7,12,,,80,,,E,,FALSE
+33,Hunter Blunderbuss,7,9,5,,20,,,D,,FALSE
+34,Hunter Pistol,6,9,5,,70,,,D,,FALSE
+35,Hunter's Torch,11,,,,50,,,,B,FALSE
+36,Loch Shield,9,8,,,,,,,,FALSE
+37,Ludwig's Rifle,9,10,9,,20,,,E,,FALSE
+38,Piercing Rifle,9,10,9,,80,,,D,,FALSE
+39,Repeating Pistol,10,11,8,,90,,,D,,FALSE
+40,Rosmarinus,,8,,8,30,,,,B,FALSE
+41,Torch,6,,,,25,,,,D,FALSE
+42,Wooden Shield,8,8,,,,,,,,FALSE
