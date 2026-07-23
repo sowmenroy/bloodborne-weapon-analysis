@@ -1,0 +1,27 @@
+trick_wpn_id,weapon,physical_atk,blood_atk,arcane_atk,fire_atk,bolt_atk,slow_poison,rapid_poison,vs_kin,vs_beast,strength_req,strength_scl,skill_req,skill_scl,bloodtinge_req,bloodtinge_scl,arcane_req,arcane_scl,durability,qs_bullet,Rally,normal,uncanny,lost,Location
+1,Whirligig Saw,95,,,,,,,100,100,18,B,12,E,,,,D,230,,,,,,From the Nightmare Church Lamp in The Hunter's Nightmare go down the stairs and follow the path. Drop down into the pools of blood and follow the path further to grab the weapon. (DLC Weapon)
+2,Tonitrus,80,,,,40,,,100,100,12,D,8,E,,,,D,100,,45,,,,"Found on a body in Hypogean Gaol or can be purchased from Messengers for 26,000 Blood Echoes after obtaining Spark Hunter Badge"
+3,Threaded Cane,78,,,,,,,100,100,7,E,9,C,,,,D,200,,35,,,,Acquired at the beginning of the game from the Messengers or later purchased for 1200 Blood Echoes from them after finding the Saw Hunter Badge
+4,Stake Driver,85,,,,,,,100,100,18,D,9,D,,,,D,200,,35,,,,Can be purchased for 8000 Blood Echoes from the Messengers after obtaining the Powder Keg Hunter Badge
+5,Simon's Bowblade,80,80,,,,,,100,100,8,,15,C,9,C,,D,140,1,,,,,Found on the body of the Harrowed Hunter next to the Lighthouse Hut lantern after answering the first option at the Hunter's Nightmare shortcut. (DLC Weapon)
+6,Saw Spear,85,,,,,,,100,100,7,D,8,D,,,,D,200,,35,,,,Found on body in Central Yharnam or can be purchased for 1000 Blood Echoes from the Messengers after finding the Saw Hunter Badge
+7,Saw Cleaver,90,,,,,,,100,100,8,D,7,E,,,,D,200,,35,,,,Acquired at the beginning of the game from the Messengers or later purchased for 1000 Blood Echoes from them after finding the Saw Hunter Badge
+8,Rifle Spear,85,85,,,,,,100,100,10,E,11,D,9,D,,D,180,1,40,,,,Can be purchased for 4000 Blood Echoes from the Messengers after obtaining the Powder Keg Hunter Badge or obtained from body in Old Yharnam.
+9,Reiterpallasch,75,75,,,,,,100,100,8,E,12,C,10,E,,D,120,1,40,,,,N - Obtained in a chest on the ground floor of Cainhurst Castle.
+10,Rakuyo,82,,,,,,,100,100,10,,20,C,,,,D,200,,,,,,Fishing Hamlet at the bottom of the well. Can be reached from the underground tunnels at the end of the Area or via a ladder in the well right away. (DLC Weapon)
+11,Ludwig's Holy Blade,100,,,,,,,100,100,16,D,12,D,,,,D,250,,60,,,,"Can be purchased for 20,000 Blood Echoes from the Messengers after obtaining the Radiant Sword Hunter Badge."
+12,Logarius' Wheel,100,,25,,,,,100,100,20,C,12,,,,10,D,300,,30,,,,"Can be purchased for 13,000 Blood Echoes from the Messengers after obtaining the Wheel Hunter Badge"
+13,Kos Parasite,,,30,,,,,100,100,,,,,,,20,A,600,2,,,,,Dropped by Orphan of Kos.(DLC Weapon)
+14,Kirkhammer,105,,,,,,,100,100,16,C,10,E,,,0,D,250,,60,,,,Can be purchased for 3000 Blood Echoes from the Messengers after obtaining the Sword Hunter Badge
+15,Hunter Axe,98,,,,,,,100,100,9,D,8,E,,,,D,250,,75,,,,Acquired at the very beginning of the game from the Messengers or later purchased for 1100 Blood Echoes from them after acquiring the Saw Hunter Badge
+16,Holy Moonlight Sword,90,,50,,,,,100,100,16,D,12,D,,,14,C,250,,,,,,"The Hunter's Nightmare on the Underground Corpse Pile after the fight against Ludwig, The Holy Blade. (DLC Weapon)"
+17,Church Pick,88,,,,,,,100,100,9,E,14,D,,,,D,250,,,,,,The Hunter's Nightmare dropped by a hunter wearing Yahar'Gul set in one of the cells that you open with the Underground Cell Key from the Research Hall. (DLC Weapon)
+18,Chikage,92,92,,,,,30,100,100,10,E,14,D,12,C,,D,120,,40,,,,"Can be purchased from the Messengers for 50,000 Blood Echoes after obtaining the Cainhurst Badge"
+19,Burial Blade,80,,30,,,,,100,100,10,E,12,C,,,,D,200,,,,,,"Can be purchased from the Messengers for 60,000 Blood Echoes after defeating Gehrman, The First Hunter"
+20,Boom Hammer,90,,,60,,,,100,100,14,C,8,E,,,,D,100,,,,,,The Hunter's Nightmare inside the house that used to be the location of the wheelchair gunner. (DLC Weapon)
+21,Bloodletter,90,90,,,,,,100,100,14,C,6,,16,B,,D,270,,,,,,The Hunter's Nightmare cells before Research Hall. Can be obtained after killing Brador. (DLC Weapon)
+22,Blade of Mercy,60,,30,,,,,100,100,7,,11,C,,,,D,200,,30,,,,"Can be purchased from the Messengers for 40,000 Blood Echoes after obtaining the Crow Hunter Badge from either finishing Eileen's quest or killing her."
+23,Beasthunter Saif,90,,,,,,,100,100,9,E,11,D,,,,D,200,,,,,,The Hunter's Nightmare. Area to after passing the Nightmare Cathedral. (DLC Weapon)
+24,Beast Cutter,92,,,,,,,100,100,11,D,9,E,,,,E,230,,,,,,"Walking down the stairs from the Nightmare Cathedral Lamp in The Hunter's Nightmare, stick to the right and aim for the higher areas. (DLC Weapon)"
+25,Beast Claw,75,,,,,,,100,100,14,D,12,E,,,,D,180,,,,,,Ailing Loran Chalice
+26,Amygdalan Arm,80,,40,,,,,100,100,17,C,9,E,,,,D,200,,,,,,"The Hunter's Nightmare, cave to the right after getting out of the building that used to be the shortcut to the Cleric Beast. (DLC Weapon)"
