@@ -1,0 +1,25 @@
+firearm_wpn_id,name,physical_atk,blood_atk,arcane_atk,fire_atk,bolt_atk,slow_poison,rapid_poison,vs_kin,vs_beasts,strength_req,strength_scl,skill_req,skill_scl,bloodtinge_req,bloodtinge_scale,arcane_req,arcane_scl,durability,qs_bullet,socket,location
+1,Cannon,,200,,,,,,100,100,30,,13,,,E,,,200,12,,Found in the rafters of a building inside the Forbidden Woods.
+2,Church Cannon,,160,,,,,,100,100,27,,,,16,E,,,200,10,,Found after activating the altar elevator to the Research Hall with the Eye Pendant activate the new elevator to go down. Cannon is in a chest down there.(DLC Item)
+3,Evelyn,,60,,,,,,100,100,9,,11,,18,B,,,100,1,,Can be purchased from the Messengers for 16000 Blood Echoes after receiving the Cainhurst Badge from joining the Cainhurst Vilebloods. Can also be found in a chest in Cainhurst Castle.
+4,Fist of Gratia,60,,,,,,,100,100,7,D,9,,5,,,,200,,,"In The Hunter's Nightmare, locked inside one of the cells after the Ludwig, the Holy Blade fight.(DLC Item)"
+5,Flamesprayer,,,,45,,,,100,100,,,8,,,,"8
+
+D",,100,1,,Acquired from Gilbert after entering the Cathedral Ward or can be purchased from the Messengers for 8000 Blood Echoes after obtaining Radiant Sword Hunter Badge.
+6,Gatling Gun,,80,,,,,,100,100,28,,12,,,E,,,200,1,,"Hunter's Nightmare, cave to the right after getting out of the building that used to be the shortcut to the Cleric Beast in the main game. Gattling Gun Hunter drops the weapon. Amygdalan Arm and a Blood-Starved Beast can be also found here. (DLC weapon)"
+7,Hunter Blunderbuss,,20,,,,,,100,100,7,,9,,5,D,,,150,1,,Acquired at the very beginning of the game from the Messengers or can be purchased later from them for 1700 Blood Echoes after obtaining the Saw Hunter Badge.
+8,Hunter Pistol,,70,,,,,,100,100,7,,9,,5,D,,,100,1,,Acquired at the very beginning of the game from the Messengers or can be purchased later from them for 1600 Blood Echoes after obtaining the Saw Hunter Badge.
+9,Hunter's Torch,,,,50,,,,100,100,6,,,,,,"-
+
+B",,150,,,Found in Old Yharnam on a corpse.
+10,Loch Shield,,,,,,,,100,100,11,,8,,,,,,160,,,"Research Hall: Can be seen right when entering on a platform together with one of the crawling experiments. Obtained after activating the lever to raise the stairs, and then dropping down and following the path down.reached by dropping down.(DLC Item)"
+11,Ludwig's Rifle,,20,,,,,,100,100,9,,10,,9,E,,,150,1,,"Can be purchased for 10,000 Blood Echoes from the Messengers after acquiring the Radiant Sword Hunter Badge."
+12,Piercing Rifle,,80,,,,,,100,100,9,,10,,9,D,,,140,1,,Purchasable at the messenger bath after acquiring the Firing Hammer Badge. (DLC weapon)
+13,Repeating Pistol,,90,,,,,,100,100,10,,11,,8,D,,,80,2,,Can be purchased from the Messengers after obtaining Sword Hunter Badge.
+14,Rosmarinus,,,30,,,,,100,100,,,8,,,,"8
+
+B",,100,1,,Can be purchased from the Messengers after obtaining the Cosmic Eye Watcher Badge.
+15,Torch,,,,25,,,,100,100,6,,,,,,"-
+
+D",,100,,,Found in Central Yharnam on a corpse.
+16,Wooden Shield,,,,,,,,100,100,8,,8,,,,,,120,,,Found in Cathedral Ward on a corpse.
