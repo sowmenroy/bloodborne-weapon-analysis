@@ -25,7 +25,7 @@ This project builds a small relational database of Bloodborne weapons (base/+0 l
 - `/powerbi` — dashboard file and visuals
 
 ## Tech Stack
-- Excel (csv files)
+- CSV (data collection)
 - Python (pandas)
 - SQL (PostgreSQL)
 - Power BI
