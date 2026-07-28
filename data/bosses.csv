@@ -1,0 +1,12 @@
+boss_id,name,location,hp,is_optional,is_dlc,is_beast,is_kin,def_phys,def_blunt,def_thrust,def_blood,def_arcane,def_fire,def_bolt,res_slow_poison,res_rapid_poison
+1,Cleric Beast,Central Yharnam,3015,TRUE,FALSE,Yes,No,103,123,103,103,165,50,165,999,999
+2,Father Gascoigne,Central Yharnam,2031,FALSE,FALSE,No/Yes,No/No,126,126,126,126,160,65,120,999,999
+3,Vicar Amelia,Cathedral Ward,5367,FALSE,FALSE,Yes,No,113,135,113,113,160,55,160,999,999
+4,Celestial Emissary,Upper Cathedral,2764,TRUE,FALSE,No,Yes,235,261,26,131,170,60,55,300,180
+5,"Ebrietas, Caughter of the Cosmos",Altar of Despair,12493,TRUE,FALSE,No,Yes,252,336,101,168,170,60,55,999,999
+6,Blood-starved Beast,Old Yharnam,3470,TRUE,FALSE,Yes,No,108,108,108,108,160,55,160,999,180
+7,Shadow of Yharnam,Forbidden Woods,3645,FALSE,FALSE,No,Yes,89,89,89,89,160,100,160,200,180
+8,"Rom, the Vacuous Spider",Moonside Lake,5058,FALSE,FALSE,No,Yes,130,130,130,130,80,72,45,999,999
+9,Witch of Hemwick,Hemwick Charnel Lane,2611,TRUE,FALSE,No,No,79,79,79,79,70,73,90,200,180
+10,One Reborn,Yahar'gul Unseen Village,10375,FALSE,FALSE,No,Yes,135,162,135,135,290,70,40,999,999
+11,Martyr Logarius,Forsaken Castle Cainhurst,9081,FALSE,FALSE,No,No,133,133,133,133,290,160,180,999,999
