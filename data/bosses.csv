@@ -3,10 +3,21 @@ boss_id,name,location,hp,is_optional,is_dlc,is_beast,is_kin,def_phys,def_blunt,d
 2,Father Gascoigne,Central Yharnam,2031,FALSE,FALSE,No/Yes,No/No,126,126,126,126,160,65,120,999,999
 3,Vicar Amelia,Cathedral Ward,5367,FALSE,FALSE,Yes,No,113,135,113,113,160,55,160,999,999
 4,Celestial Emissary,Upper Cathedral,2764,TRUE,FALSE,No,Yes,235,261,26,131,170,60,55,300,180
-5,"Ebrietas, Caughter of the Cosmos",Altar of Despair,12493,TRUE,FALSE,No,Yes,252,336,101,168,170,60,55,999,999
+5,"Ebrietas, Daughter of the Cosmos",Altar of Despair,12493,TRUE,FALSE,No,Yes,252,336,101,168,170,60,55,999,999
 6,Blood-starved Beast,Old Yharnam,3470,TRUE,FALSE,Yes,No,108,108,108,108,160,55,160,999,180
 7,Shadow of Yharnam,Forbidden Woods,3645,FALSE,FALSE,No,Yes,89,89,89,89,160,100,160,200,180
 8,"Rom, the Vacuous Spider",Moonside Lake,5058,FALSE,FALSE,No,Yes,130,130,130,130,80,72,45,999,999
 9,Witch of Hemwick,Hemwick Charnel Lane,2611,TRUE,FALSE,No,No,79,79,79,79,70,73,90,200,180
 10,One Reborn,Yahar'gul Unseen Village,10375,FALSE,FALSE,No,Yes,135,162,135,135,290,70,40,999,999
-11,Martyr Logarius,Forsaken Castle Cainhurst,9081,FALSE,FALSE,No,No,133,133,133,133,290,160,180,999,999
+11,Martyr Logarius,Forsaken Castle Cainhurst,9081,TRUE,FALSE,No,No,133,133,133,133,290,160,180,999,999
+12,Darkbeast Paarl,Hypogean Gaol,4552,TRUE,FALSE,Yes,No,120,144,120,120,75,85,300,999,999
+13,Amygdala,Nightmare Frontier,6404,TRUE,FALSE,No,No,128,153,128,128,70,70,70,999,999
+14,Mergo's Wet Nurse,Nightmare of Mensis,14081,FALSE,FALSE,No,No,148,177,148,148,75,75,75,250,180
+15,"Micolash, Host of the Nightmare",Nightmare of Mensis,5250,FALSE,FALSE,No,No,169,134,125,179,232,124,125,144,132
+16,"Ludwig, The Holy Blade",The Hunter's Nightmare,16658,FALSE,TRUE,Yes/No,No,140,140,140,140,252,119,168,999,999
+17,Living Failures,Research Hall,20646,FALSE,TRUE,No,Yes,239,273,102,171,256,92,71,250,180
+18,Lady Maria of the Astral Clocktower,Astral Clocktower,14081,FALSE,TRUE,No,No,147,147,147,147,103,177,103,999,999
+19,Orphan of Kos,Fishing Hamlet Coast,19217,FALSE,TRUE,No,No,183,183,183,183,274,205,228,999,999
+20,"Laurence, the First Vicar",The Hunter's Nightmare,21242,TRUE,TRUE,Yes,No,148,178,148,148,200,744,200,999,999
+21,"Gehrman, the First Hunter",The Hunter's Dream,14293,TRUE,FALSE,No,No,150,150,150,150,65,70,65,999,999
+22,Moon Presence,The Hunter's Dream,8909,TRUE,FALSE,No,No,137,137,137,137,75,75,75,999,999
