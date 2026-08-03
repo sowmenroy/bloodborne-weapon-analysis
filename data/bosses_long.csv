@@ -1,0 +1,168 @@
+boss_id,name,defense_type,defense_value
+1,Cleric Beast,def_phys,103
+2,Father Gascoigne,def_phys,126
+3,Vicar Amelia,def_phys,113
+4,Celestial Emissary,def_phys,235
+5,"Ebrietas, Daughter of the Cosmos",def_phys,252
+6,Blood-starved Beast,def_phys,108
+7,Shadow of Yharnam,def_phys,89
+8,"Rom, the Vacuous Spider",def_phys,130
+9,Witch of Hemwick,def_phys,79
+10,One Reborn,def_phys,135
+11,Martyr Logarius,def_phys,133
+12,Darkbeast Paarl,def_phys,120
+13,Amygdala,def_phys,128
+14,Mergo's Wet Nurse,def_phys,148
+15,"Micolash, Host of the Nightmare",def_phys,169
+16,"Ludwig, The Holy Blade",def_phys,140
+17,Living Failures,def_phys,239
+18,Lady Maria of the Astral Clocktower,def_phys,147
+19,Orphan of Kos,def_phys,183
+20,"Laurence, the First Vicar",def_phys,148
+21,"Gehrman, the First Hunter",def_phys,150
+22,Moon Presence,def_phys,137
+1,Cleric Beast,def_blunt,123
+2,Father Gascoigne,def_blunt,126
+3,Vicar Amelia,def_blunt,135
+4,Celestial Emissary,def_blunt,261
+5,"Ebrietas, Daughter of the Cosmos",def_blunt,336
+6,Blood-starved Beast,def_blunt,108
+7,Shadow of Yharnam,def_blunt,89
+8,"Rom, the Vacuous Spider",def_blunt,130
+9,Witch of Hemwick,def_blunt,79
+10,One Reborn,def_blunt,162
+11,Martyr Logarius,def_blunt,133
+12,Darkbeast Paarl,def_blunt,144
+13,Amygdala,def_blunt,153
+14,Mergo's Wet Nurse,def_blunt,177
+15,"Micolash, Host of the Nightmare",def_blunt,134
+16,"Ludwig, The Holy Blade",def_blunt,140
+17,Living Failures,def_blunt,273
+18,Lady Maria of the Astral Clocktower,def_blunt,147
+19,Orphan of Kos,def_blunt,183
+20,"Laurence, the First Vicar",def_blunt,178
+21,"Gehrman, the First Hunter",def_blunt,150
+22,Moon Presence,def_blunt,137
+1,Cleric Beast,def_thrust,103
+2,Father Gascoigne,def_thrust,126
+3,Vicar Amelia,def_thrust,113
+4,Celestial Emissary,def_thrust,26
+5,"Ebrietas, Daughter of the Cosmos",def_thrust,101
+6,Blood-starved Beast,def_thrust,108
+7,Shadow of Yharnam,def_thrust,89
+8,"Rom, the Vacuous Spider",def_thrust,130
+9,Witch of Hemwick,def_thrust,79
+10,One Reborn,def_thrust,135
+11,Martyr Logarius,def_thrust,133
+12,Darkbeast Paarl,def_thrust,120
+13,Amygdala,def_thrust,128
+14,Mergo's Wet Nurse,def_thrust,148
+15,"Micolash, Host of the Nightmare",def_thrust,125
+16,"Ludwig, The Holy Blade",def_thrust,140
+17,Living Failures,def_thrust,102
+18,Lady Maria of the Astral Clocktower,def_thrust,147
+19,Orphan of Kos,def_thrust,183
+20,"Laurence, the First Vicar",def_thrust,148
+21,"Gehrman, the First Hunter",def_thrust,150
+22,Moon Presence,def_thrust,137
+1,Cleric Beast,def_blood,103
+2,Father Gascoigne,def_blood,126
+3,Vicar Amelia,def_blood,113
+4,Celestial Emissary,def_blood,131
+5,"Ebrietas, Daughter of the Cosmos",def_blood,168
+6,Blood-starved Beast,def_blood,108
+7,Shadow of Yharnam,def_blood,89
+8,"Rom, the Vacuous Spider",def_blood,130
+9,Witch of Hemwick,def_blood,79
+10,One Reborn,def_blood,135
+11,Martyr Logarius,def_blood,133
+12,Darkbeast Paarl,def_blood,120
+13,Amygdala,def_blood,128
+14,Mergo's Wet Nurse,def_blood,148
+15,"Micolash, Host of the Nightmare",def_blood,179
+16,"Ludwig, The Holy Blade",def_blood,140
+17,Living Failures,def_blood,171
+18,Lady Maria of the Astral Clocktower,def_blood,147
+19,Orphan of Kos,def_blood,183
+20,"Laurence, the First Vicar",def_blood,148
+21,"Gehrman, the First Hunter",def_blood,150
+22,Moon Presence,def_blood,137
+1,Cleric Beast,def_arcane,165
+2,Father Gascoigne,def_arcane,160
+3,Vicar Amelia,def_arcane,160
+4,Celestial Emissary,def_arcane,170
+5,"Ebrietas, Daughter of the Cosmos",def_arcane,170
+6,Blood-starved Beast,def_arcane,160
+7,Shadow of Yharnam,def_arcane,160
+8,"Rom, the Vacuous Spider",def_arcane,80
+9,Witch of Hemwick,def_arcane,70
+10,One Reborn,def_arcane,290
+11,Martyr Logarius,def_arcane,290
+12,Darkbeast Paarl,def_arcane,75
+13,Amygdala,def_arcane,70
+14,Mergo's Wet Nurse,def_arcane,75
+15,"Micolash, Host of the Nightmare",def_arcane,232
+16,"Ludwig, The Holy Blade",def_arcane,252
+17,Living Failures,def_arcane,256
+18,Lady Maria of the Astral Clocktower,def_arcane,103
+19,Orphan of Kos,def_arcane,274
+20,"Laurence, the First Vicar",def_arcane,200
+21,"Gehrman, the First Hunter",def_arcane,65
+22,Moon Presence,def_arcane,75
+1,Cleric Beast,def_fire,50
+2,Father Gascoigne,def_fire,65
+3,Vicar Amelia,def_fire,55
+4,Celestial Emissary,def_fire,60
+5,"Ebrietas, Daughter of the Cosmos",def_fire,60
+6,Blood-starved Beast,def_fire,55
+7,Shadow of Yharnam,def_fire,100
+8,"Rom, the Vacuous Spider",def_fire,72
+9,Witch of Hemwick,def_fire,73
+10,One Reborn,def_fire,70
+11,Martyr Logarius,def_fire,160
+12,Darkbeast Paarl,def_fire,85
+13,Amygdala,def_fire,70
+14,Mergo's Wet Nurse,def_fire,75
+15,"Micolash, Host of the Nightmare",def_fire,124
+16,"Ludwig, The Holy Blade",def_fire,119
+17,Living Failures,def_fire,92
+18,Lady Maria of the Astral Clocktower,def_fire,177
+19,Orphan of Kos,def_fire,205
+20,"Laurence, the First Vicar",def_fire,744
+21,"Gehrman, the First Hunter",def_fire,70
+22,Moon Presence,def_fire,75
+1,Cleric Beast,def_bolt,165
+2,Father Gascoigne,def_bolt,120
+3,Vicar Amelia,def_bolt,160
+4,Celestial Emissary,def_bolt,55
+5,"Ebrietas, Daughter of the Cosmos",def_bolt,55
+6,Blood-starved Beast,def_bolt,160
+7,Shadow of Yharnam,def_bolt,160
+8,"Rom, the Vacuous Spider",def_bolt,45
+9,Witch of Hemwick,def_bolt,90
+10,One Reborn,def_bolt,40
+11,Martyr Logarius,def_bolt,180
+12,Darkbeast Paarl,def_bolt,300
+13,Amygdala,def_bolt,70
+14,Mergo's Wet Nurse,def_bolt,75
+15,"Micolash, Host of the Nightmare",def_bolt,125
+16,"Ludwig, The Holy Blade",def_bolt,168
+17,Living Failures,def_bolt,71
+18,Lady Maria of the Astral Clocktower,def_bolt,103
+19,Orphan of Kos,def_bolt,228
+20,"Laurence, the First Vicar",def_bolt,200
+21,"Gehrman, the First Hunter",def_bolt,65
+22,Moon Presence,def_bolt,75
+4,Celestial Emissary,res_slow_poison,300
+7,Shadow of Yharnam,res_slow_poison,200
+9,Witch of Hemwick,res_slow_poison,200
+14,Mergo's Wet Nurse,res_slow_poison,250
+15,"Micolash, Host of the Nightmare",res_slow_poison,144
+17,Living Failures,res_slow_poison,250
+4,Celestial Emissary,res_rapid_poison,180
+6,Blood-starved Beast,res_rapid_poison,180
+7,Shadow of Yharnam,res_rapid_poison,180
+9,Witch of Hemwick,res_rapid_poison,180
+14,Mergo's Wet Nurse,res_rapid_poison,180
+15,"Micolash, Host of the Nightmare",res_rapid_poison,132
+17,Living Failures,res_rapid_poison,180

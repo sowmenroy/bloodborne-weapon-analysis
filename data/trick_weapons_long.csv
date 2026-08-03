@@ -1,0 +1,40 @@
+trick_wpn_id,name,damage_type,attack_value
+1,Amygdalan Arm,physical_atk,80.0
+2,Beast Claw,physical_atk,75.0
+3,Beast Cutter,physical_atk,92.0
+4,Beasthunter Saif,physical_atk,90.0
+5,Blade of Mercy,physical_atk,60.0
+6,Bloodletter,physical_atk,90.0
+7,Boom Hammer,physical_atk,90.0
+8,Burial Blade,physical_atk,80.0
+9,Chikage,physical_atk,92.0
+10,Church Pick,physical_atk,88.0
+11,Holy Moonlight Sword,physical_atk,90.0
+12,Hunter Axe,physical_atk,98.0
+13,Kirkhammer,physical_atk,105.0
+15,Logarius' Wheel,physical_atk,100.0
+16,Ludwig's Holy Blade,physical_atk,100.0
+17,Rakuyo,physical_atk,82.0
+18,Reiterpallasch,physical_atk,75.0
+19,Rifle Spear,physical_atk,85.0
+20,Saw Cleaver,physical_atk,90.0
+21,Saw Spear,physical_atk,85.0
+22,Simon's Bowblade,physical_atk,80.0
+23,Stake Driver,physical_atk,85.0
+24,Threaded Cane,physical_atk,78.0
+25,Tonitrus,physical_atk,80.0
+26,Whirligig Saw,physical_atk,95.0
+6,Bloodletter,blood_atk,90.0
+9,Chikage,blood_atk,92.0
+18,Reiterpallasch,blood_atk,75.0
+19,Rifle Spear,blood_atk,85.0
+22,Simon's Bowblade,blood_atk,80.0
+1,Amygdalan Arm,arcane_atk,40.0
+5,Blade of Mercy,arcane_atk,30.0
+8,Burial Blade,arcane_atk,30.0
+11,Holy Moonlight Sword,arcane_atk,50.0
+14,Kos Parasite,arcane_atk,30.0
+15,Logarius' Wheel,arcane_atk,25.0
+7,Boom Hammer,fire_atk,60.0
+25,Tonitrus,bolt_atk,40.0
+9,Chikage,rapid_poison,30.0

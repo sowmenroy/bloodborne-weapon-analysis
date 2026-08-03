@@ -1,0 +1,15 @@
+firearm_wpn_id,name,damage_type,attack_value
+4,Fist of Gratia,physical_atk,60.0
+1,Cannon,blood_atk,200.0
+2,Church Cannon,blood_atk,160.0
+3,Evelyn,blood_atk,60.0
+6,Gatling Gun,blood_atk,80.0
+7,Hunter Blunderbuss,blood_atk,20.0
+8,Hunter Pistol,blood_atk,70.0
+11,Ludwig's Rifle,blood_atk,20.0
+12,Piercing Rifle,blood_atk,80.0
+13,Repeating Pistol,blood_atk,90.0
+14,Rosmarinus,arcane_atk,30.0
+5,Flamesprayer,fire_atk,45.0
+9,Hunter's Torch,fire_atk,50.0
+15,Torch,fire_atk,25.0
