@@ -7,7 +7,7 @@ A relational database and analysis project exploring Bloodborne's weapons and bo
 | Stage | Status |
 |---|---|
 | Data collection (CSV) | ✅ Complete |
-| Python cleaning/EDA | 🚧 In progress |
+| Python cleaning/EDA | ✅ Complete  |
 | SQL relational queries | ⬜ Planned |
 | Power BI dashboard | ⬜ Planned |
 
