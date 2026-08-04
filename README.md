@@ -15,7 +15,7 @@ A relational database and analysis project exploring Bloodborne's weapons and bo
 
 This project builds a small relational database of Bloodborne weapons (base/+0 level) and bosses (excluding chalice dungeon) to answer:
 
-**Which damage type (physical, blood, arcane, fire) has the best average coverage against bosses?**
+**Which weapons would be the most effective against various bosses?**
 
 ## Planned Structure
 
