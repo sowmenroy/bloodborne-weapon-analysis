@@ -1,25 +1,19 @@
 boss_id,name,defense_type,defense_value
-1,Cleric Beast,def_fire,50
-1,Cleric Beast,def_phys,103
-1,Cleric Beast,def_thrust,103
-1,Cleric Beast,def_blood,103
-1,Cleric Beast,def_blunt,123
-1,Cleric Beast,def_arcane,165
-1,Cleric Beast,def_bolt,165
-2,Father Gascoigne,def_fire,65
-2,Father Gascoigne,def_bolt,120
-2,Father Gascoigne,def_phys,126
-2,Father Gascoigne,def_blunt,126
-2,Father Gascoigne,def_thrust,126
-2,Father Gascoigne,def_blood,126
-2,Father Gascoigne,def_arcane,160
-3,Vicar Amelia,def_fire,55
-3,Vicar Amelia,def_phys,113
-3,Vicar Amelia,def_thrust,113
-3,Vicar Amelia,def_blood,113
-3,Vicar Amelia,def_blunt,135
-3,Vicar Amelia,def_arcane,160
-3,Vicar Amelia,def_bolt,160
+13,Amygdala,def_arcane,70
+13,Amygdala,def_fire,70
+13,Amygdala,def_bolt,70
+13,Amygdala,def_phys,128
+13,Amygdala,def_thrust,128
+13,Amygdala,def_blood,128
+13,Amygdala,def_blunt,153
+6,Blood-starved Beast,def_fire,55
+6,Blood-starved Beast,def_phys,108
+6,Blood-starved Beast,def_blunt,108
+6,Blood-starved Beast,def_thrust,108
+6,Blood-starved Beast,def_blood,108
+6,Blood-starved Beast,def_arcane,160
+6,Blood-starved Beast,def_bolt,160
+6,Blood-starved Beast,res_rapid_poison,180
 4,Celestial Emissary,def_thrust,26
 4,Celestial Emissary,def_bolt,55
 4,Celestial Emissary,def_fire,60
@@ -29,60 +23,13 @@ boss_id,name,defense_type,defense_value
 4,Celestial Emissary,def_phys,235
 4,Celestial Emissary,def_blunt,261
 4,Celestial Emissary,res_slow_poison,300
-5,"Ebrietas, Daughter of the Cosmos",def_bolt,55
-5,"Ebrietas, Daughter of the Cosmos",def_fire,60
-5,"Ebrietas, Daughter of the Cosmos",def_thrust,101
-5,"Ebrietas, Daughter of the Cosmos",def_blood,168
-5,"Ebrietas, Daughter of the Cosmos",def_arcane,170
-5,"Ebrietas, Daughter of the Cosmos",def_phys,252
-5,"Ebrietas, Daughter of the Cosmos",def_blunt,336
-6,Blood-starved Beast,def_fire,55
-6,Blood-starved Beast,def_phys,108
-6,Blood-starved Beast,def_blunt,108
-6,Blood-starved Beast,def_thrust,108
-6,Blood-starved Beast,def_blood,108
-6,Blood-starved Beast,def_arcane,160
-6,Blood-starved Beast,def_bolt,160
-6,Blood-starved Beast,res_rapid_poison,180
-7,Shadow of Yharnam,def_phys,89
-7,Shadow of Yharnam,def_blunt,89
-7,Shadow of Yharnam,def_thrust,89
-7,Shadow of Yharnam,def_blood,89
-7,Shadow of Yharnam,def_fire,100
-7,Shadow of Yharnam,def_arcane,160
-7,Shadow of Yharnam,def_bolt,160
-7,Shadow of Yharnam,res_rapid_poison,180
-7,Shadow of Yharnam,res_slow_poison,200
-8,"Rom, the Vacuous Spider",def_bolt,45
-8,"Rom, the Vacuous Spider",def_fire,72
-8,"Rom, the Vacuous Spider",def_arcane,80
-8,"Rom, the Vacuous Spider",def_phys,130
-8,"Rom, the Vacuous Spider",def_blunt,130
-8,"Rom, the Vacuous Spider",def_thrust,130
-8,"Rom, the Vacuous Spider",def_blood,130
-9,Witch of Hemwick,def_arcane,70
-9,Witch of Hemwick,def_fire,73
-9,Witch of Hemwick,def_phys,79
-9,Witch of Hemwick,def_blunt,79
-9,Witch of Hemwick,def_thrust,79
-9,Witch of Hemwick,def_blood,79
-9,Witch of Hemwick,def_bolt,90
-9,Witch of Hemwick,res_rapid_poison,180
-9,Witch of Hemwick,res_slow_poison,200
-10,One Reborn,def_bolt,40
-10,One Reborn,def_fire,70
-10,One Reborn,def_phys,135
-10,One Reborn,def_thrust,135
-10,One Reborn,def_blood,135
-10,One Reborn,def_blunt,162
-10,One Reborn,def_arcane,290
-11,Martyr Logarius,def_phys,133
-11,Martyr Logarius,def_blunt,133
-11,Martyr Logarius,def_thrust,133
-11,Martyr Logarius,def_blood,133
-11,Martyr Logarius,def_fire,160
-11,Martyr Logarius,def_bolt,180
-11,Martyr Logarius,def_arcane,290
+1,Cleric Beast,def_fire,50
+1,Cleric Beast,def_phys,103
+1,Cleric Beast,def_thrust,103
+1,Cleric Beast,def_blood,103
+1,Cleric Beast,def_blunt,123
+1,Cleric Beast,def_arcane,165
+1,Cleric Beast,def_bolt,165
 12,Darkbeast Paarl,def_arcane,75
 12,Darkbeast Paarl,def_fire,85
 12,Darkbeast Paarl,def_phys,120
@@ -90,13 +37,64 @@ boss_id,name,defense_type,defense_value
 12,Darkbeast Paarl,def_blood,120
 12,Darkbeast Paarl,def_blunt,144
 12,Darkbeast Paarl,def_bolt,300
-13,Amygdala,def_arcane,70
-13,Amygdala,def_fire,70
-13,Amygdala,def_bolt,70
-13,Amygdala,def_phys,128
-13,Amygdala,def_thrust,128
-13,Amygdala,def_blood,128
-13,Amygdala,def_blunt,153
+5,"Ebrietas, Daughter of the Cosmos",def_bolt,55
+5,"Ebrietas, Daughter of the Cosmos",def_fire,60
+5,"Ebrietas, Daughter of the Cosmos",def_thrust,101
+5,"Ebrietas, Daughter of the Cosmos",def_blood,168
+5,"Ebrietas, Daughter of the Cosmos",def_arcane,170
+5,"Ebrietas, Daughter of the Cosmos",def_phys,252
+5,"Ebrietas, Daughter of the Cosmos",def_blunt,336
+2,Father Gascoigne,def_fire,65
+2,Father Gascoigne,def_bolt,120
+2,Father Gascoigne,def_phys,126
+2,Father Gascoigne,def_blunt,126
+2,Father Gascoigne,def_thrust,126
+2,Father Gascoigne,def_blood,126
+2,Father Gascoigne,def_arcane,160
+21,"Gehrman, the First Hunter",def_arcane,65
+21,"Gehrman, the First Hunter",def_bolt,65
+21,"Gehrman, the First Hunter",def_fire,70
+21,"Gehrman, the First Hunter",def_phys,150
+21,"Gehrman, the First Hunter",def_blunt,150
+21,"Gehrman, the First Hunter",def_thrust,150
+21,"Gehrman, the First Hunter",def_blood,150
+18,Lady Maria of the Astral Clocktower,def_arcane,103
+18,Lady Maria of the Astral Clocktower,def_bolt,103
+18,Lady Maria of the Astral Clocktower,def_phys,147
+18,Lady Maria of the Astral Clocktower,def_blunt,147
+18,Lady Maria of the Astral Clocktower,def_thrust,147
+18,Lady Maria of the Astral Clocktower,def_blood,147
+18,Lady Maria of the Astral Clocktower,def_fire,177
+20,"Laurence, the First Vicar",def_phys,148
+20,"Laurence, the First Vicar",def_thrust,148
+20,"Laurence, the First Vicar",def_blood,148
+20,"Laurence, the First Vicar",def_blunt,178
+20,"Laurence, the First Vicar",def_arcane,200
+20,"Laurence, the First Vicar",def_bolt,200
+20,"Laurence, the First Vicar",def_fire,744
+17,Living Failures,def_bolt,71
+17,Living Failures,def_fire,92
+17,Living Failures,def_thrust,102
+17,Living Failures,def_blood,171
+17,Living Failures,res_rapid_poison,180
+17,Living Failures,def_phys,239
+17,Living Failures,res_slow_poison,250
+17,Living Failures,def_arcane,256
+17,Living Failures,def_blunt,273
+16,"Ludwig, The Holy Blade",def_fire,119
+16,"Ludwig, The Holy Blade",def_phys,140
+16,"Ludwig, The Holy Blade",def_blunt,140
+16,"Ludwig, The Holy Blade",def_thrust,140
+16,"Ludwig, The Holy Blade",def_blood,140
+16,"Ludwig, The Holy Blade",def_bolt,168
+16,"Ludwig, The Holy Blade",def_arcane,252
+11,Martyr Logarius,def_phys,133
+11,Martyr Logarius,def_blunt,133
+11,Martyr Logarius,def_thrust,133
+11,Martyr Logarius,def_blood,133
+11,Martyr Logarius,def_fire,160
+11,Martyr Logarius,def_bolt,180
+11,Martyr Logarius,def_arcane,290
 14,Mergo's Wet Nurse,def_arcane,75
 14,Mergo's Wet Nurse,def_fire,75
 14,Mergo's Wet Nurse,def_bolt,75
@@ -115,50 +113,6 @@ boss_id,name,defense_type,defense_value
 15,"Micolash, Host of the Nightmare",def_phys,169
 15,"Micolash, Host of the Nightmare",def_blood,179
 15,"Micolash, Host of the Nightmare",def_arcane,232
-16,"Ludwig, The Holy Blade",def_fire,119
-16,"Ludwig, The Holy Blade",def_phys,140
-16,"Ludwig, The Holy Blade",def_blunt,140
-16,"Ludwig, The Holy Blade",def_thrust,140
-16,"Ludwig, The Holy Blade",def_blood,140
-16,"Ludwig, The Holy Blade",def_bolt,168
-16,"Ludwig, The Holy Blade",def_arcane,252
-17,Living Failures,def_bolt,71
-17,Living Failures,def_fire,92
-17,Living Failures,def_thrust,102
-17,Living Failures,def_blood,171
-17,Living Failures,res_rapid_poison,180
-17,Living Failures,def_phys,239
-17,Living Failures,res_slow_poison,250
-17,Living Failures,def_arcane,256
-17,Living Failures,def_blunt,273
-18,Lady Maria of the Astral Clocktower,def_arcane,103
-18,Lady Maria of the Astral Clocktower,def_bolt,103
-18,Lady Maria of the Astral Clocktower,def_phys,147
-18,Lady Maria of the Astral Clocktower,def_blunt,147
-18,Lady Maria of the Astral Clocktower,def_thrust,147
-18,Lady Maria of the Astral Clocktower,def_blood,147
-18,Lady Maria of the Astral Clocktower,def_fire,177
-19,Orphan of Kos,def_phys,183
-19,Orphan of Kos,def_blunt,183
-19,Orphan of Kos,def_thrust,183
-19,Orphan of Kos,def_blood,183
-19,Orphan of Kos,def_fire,205
-19,Orphan of Kos,def_bolt,228
-19,Orphan of Kos,def_arcane,274
-20,"Laurence, the First Vicar",def_phys,148
-20,"Laurence, the First Vicar",def_thrust,148
-20,"Laurence, the First Vicar",def_blood,148
-20,"Laurence, the First Vicar",def_blunt,178
-20,"Laurence, the First Vicar",def_arcane,200
-20,"Laurence, the First Vicar",def_bolt,200
-20,"Laurence, the First Vicar",def_fire,744
-21,"Gehrman, the First Hunter",def_arcane,65
-21,"Gehrman, the First Hunter",def_bolt,65
-21,"Gehrman, the First Hunter",def_fire,70
-21,"Gehrman, the First Hunter",def_phys,150
-21,"Gehrman, the First Hunter",def_blunt,150
-21,"Gehrman, the First Hunter",def_thrust,150
-21,"Gehrman, the First Hunter",def_blood,150
 22,Moon Presence,def_arcane,75
 22,Moon Presence,def_fire,75
 22,Moon Presence,def_bolt,75
@@ -166,3 +120,49 @@ boss_id,name,defense_type,defense_value
 22,Moon Presence,def_blunt,137
 22,Moon Presence,def_thrust,137
 22,Moon Presence,def_blood,137
+10,One Reborn,def_bolt,40
+10,One Reborn,def_fire,70
+10,One Reborn,def_phys,135
+10,One Reborn,def_thrust,135
+10,One Reborn,def_blood,135
+10,One Reborn,def_blunt,162
+10,One Reborn,def_arcane,290
+19,Orphan of Kos,def_phys,183
+19,Orphan of Kos,def_blunt,183
+19,Orphan of Kos,def_thrust,183
+19,Orphan of Kos,def_blood,183
+19,Orphan of Kos,def_fire,205
+19,Orphan of Kos,def_bolt,228
+19,Orphan of Kos,def_arcane,274
+8,"Rom, the Vacuous Spider",def_bolt,45
+8,"Rom, the Vacuous Spider",def_fire,72
+8,"Rom, the Vacuous Spider",def_arcane,80
+8,"Rom, the Vacuous Spider",def_phys,130
+8,"Rom, the Vacuous Spider",def_blunt,130
+8,"Rom, the Vacuous Spider",def_thrust,130
+8,"Rom, the Vacuous Spider",def_blood,130
+7,Shadow of Yharnam,def_phys,89
+7,Shadow of Yharnam,def_blunt,89
+7,Shadow of Yharnam,def_thrust,89
+7,Shadow of Yharnam,def_blood,89
+7,Shadow of Yharnam,def_fire,100
+7,Shadow of Yharnam,def_arcane,160
+7,Shadow of Yharnam,def_bolt,160
+7,Shadow of Yharnam,res_rapid_poison,180
+7,Shadow of Yharnam,res_slow_poison,200
+3,Vicar Amelia,def_fire,55
+3,Vicar Amelia,def_phys,113
+3,Vicar Amelia,def_thrust,113
+3,Vicar Amelia,def_blood,113
+3,Vicar Amelia,def_blunt,135
+3,Vicar Amelia,def_arcane,160
+3,Vicar Amelia,def_bolt,160
+9,Witch of Hemwick,def_arcane,70
+9,Witch of Hemwick,def_fire,73
+9,Witch of Hemwick,def_phys,79
+9,Witch of Hemwick,def_blunt,79
+9,Witch of Hemwick,def_thrust,79
+9,Witch of Hemwick,def_blood,79
+9,Witch of Hemwick,def_bolt,90
+9,Witch of Hemwick,res_rapid_poison,180
+9,Witch of Hemwick,res_slow_poison,200
