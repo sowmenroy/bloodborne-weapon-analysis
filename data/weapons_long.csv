@@ -1,0 +1,54 @@
+weapon_id,name,damage_type,attack_value,weapon_category
+1,Amygdalan Arm,physical_atk,80.0,trick_weapon
+2,Beast Claw,physical_atk,75.0,trick_weapon
+3,Beast Cutter,physical_atk,92.0,trick_weapon
+4,Beasthunter Saif,physical_atk,90.0,trick_weapon
+5,Blade of Mercy,physical_atk,60.0,trick_weapon
+6,Bloodletter,physical_atk,90.0,trick_weapon
+7,Boom Hammer,physical_atk,90.0,trick_weapon
+8,Burial Blade,physical_atk,80.0,trick_weapon
+9,Chikage,physical_atk,92.0,trick_weapon
+10,Church Pick,physical_atk,88.0,trick_weapon           
+11,Holy Moonlight Sword,physical_atk,90.0,trick_weapon
+12,Hunter Axe,physical_atk,98.0,trick_weapon
+13,Kirkhammer,physical_atk,105.0,trick_weapon
+14,Logarius' Wheel,physical_atk,100.0,trick_weapon
+15,Ludwig's Holy Blade,physical_atk,100.0,trick_weapon
+16,Rakuyo,physical_atk,82.0,trick_weapon
+17,Reiterpallasch,physical_atk,75.0,trick_weapon
+18,Rifle Spear,physical_atk,85.0,trick_weapon
+19,Saw Cleaver,physical_atk,90.0,trick_weapon
+20,Saw Spear,physical_atk,85.0,trick_weapon
+21,Simon's Bowblade,physical_atk,80.0,trick_weapon
+22,Stake Driver,physical_atk,85.0,trick_weapon
+23,Threaded Cane,physical_atk,78.0,trick_weapon
+24,Tonitrus,physical_atk,80.0,trick_weapon
+25,Whirligig Saw,physical_atk,95.0,trick_weapon
+26,Bloodletter,blood_atk,90.0,trick_weapon
+27,Chikage,blood_atk,92.0,trick_weapon
+28,Reiterpallasch,blood_atk,75.0,trick_weapon
+29,Rifle Spear,blood_atk,85.0,trick_weapon
+30,Simon's Bowblade,blood_atk,80.0,trick_weapon
+31,Amygdalan Arm,arcane_atk,40.0,trick_weapon
+32,Blade of Mercy,arcane_atk,30.0,trick_weapon
+33,Burial Blade,arcane_atk,30.0,trick_weapon
+34,Holy Moonlight Sword,arcane_atk,50.0,trick_weapon
+35,Kos Parasite,arcane_atk,30.0,trick_weapon
+36,Logarius' Wheel,arcane_atk,25.0,trick_weapon
+37,Boom Hammer,fire_atk,60.0,trick_weapon
+38,Tonitrus,bolt_atk,40.0,trick_weapon
+39,Chikage,rapid_poison,30.0,trick_weapon
+40,Fist of Gratia,physical_atk,60.0,firearm
+41,Cannon,blood_atk,200.0,firearm
+42,Church Cannon,blood_atk,160.0,firearm
+43,Evelyn,blood_atk,60.0,firearm
+44,Gatling Gun,blood_atk,80.0,firearm
+45,Hunter Blunderbuss,blood_atk,20.0,firearm
+46,Hunter Pistol,blood_atk,70.0,firearm
+47,Ludwig's Rifle,blood_atk,20.0,firearm
+48,Piercing Rifle,blood_atk,80.0,firearm
+49,Repeating Pistol,blood_atk,90.0,firearm
+50,Rosmarinus,arcane_atk,30.0,firearm
+51,Flamesprayer,fire_atk,45.0,firearm
+52,Hunter's Torch,fire_atk,50.0,firearm
+53,Torch,fire_atk,25.0,firearm
