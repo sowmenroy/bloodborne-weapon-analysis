@@ -8,7 +8,7 @@ weapon_id,name,damage_type,attack_value,weapon_category
 7,Boom Hammer,physical_atk,90.0,trick_weapon
 8,Burial Blade,physical_atk,80.0,trick_weapon
 9,Chikage,physical_atk,92.0,trick_weapon
-10,Church Pick,physical_atk,88.0,trick_weapon           
+10,Church Pick,physical_atk,88.0,trick_weapon
 11,Holy Moonlight Sword,physical_atk,90.0,trick_weapon
 12,Hunter Axe,physical_atk,98.0,trick_weapon
 13,Kirkhammer,physical_atk,105.0,trick_weapon
